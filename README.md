@@ -1,2 +1,4 @@
 # Movie-Recommendation-Website-CINEMATE-
-website is about movies , tv-series and their cast.
+Website is about movies, tv-series and their cast.
+<br>
+We have used TMDB api for the data.
